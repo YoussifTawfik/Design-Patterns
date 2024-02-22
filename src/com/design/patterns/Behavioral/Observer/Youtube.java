@@ -1,4 +1,4 @@
-package com.design.patterns.Behavioral.Observer;
+package com.design.patterns.Behavioral.observer;
 
 public class Youtube {
 

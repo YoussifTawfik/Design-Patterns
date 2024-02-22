@@ -1,4 +1,4 @@
-package com.design.patterns.Creational.Factory;
+package com.design.patterns.creational.factory;
 
 public class QNBBank implements IBank{
 
